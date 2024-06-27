@@ -1,0 +1,8 @@
+ -- blog app
+ -- users 
+    -- create users and routers
+    -- email, genger, age, is active
+    -- create user: -- email genger age nd active
+    -- has a relationship is post_id
+ -- post/ content
+   --  post_title, post_content, post_author, date  
